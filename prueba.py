@@ -1,4 +1,4 @@
 #suma de dos numeros
-v=2
-n=56
+v=int(input("ingrese un numero Entero"))
+n=int(input("ingrese un numero Entero"))
 print(v+n)
